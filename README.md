@@ -1,7 +1,5 @@
 # [Arvind](https://github.com/Arvind82chd)'s Notes
 
-# This is an H1 header (largest)
-###### This is an H6 header (smallest)
 
 ## Summary 
 
